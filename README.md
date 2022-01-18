@@ -72,7 +72,8 @@ but it seems too tight and scrollbar is too short.
 2. Second, we add margin to make some space
 
 - The outer margin is 24px, so we can leave 2px of space like the bumper!
-  ![too_tight](/img/buffered_image.png)
+
+![too_tight](/img/buffered_image.png)
 
 ```css
 .buttonRow {
@@ -97,7 +98,7 @@ but it seems too tight and scrollbar is too short.
 }
 ```
 
-# Q3 answer (Perspective)
+# Q4 answer (Perspective)
 
 > 참고 : 브라우저의 렌더링 순서  
 > 먼저 위치가 지정되지 않은 모든 요소가 렌더링됩니다(Flow, Flexbox, Grid...).  
